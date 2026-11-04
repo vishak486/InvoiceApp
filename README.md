@@ -67,4 +67,4 @@ src/
 - Edit and delete for customers and invoices.
 - Toast messages after saving, and a nicer layout on small screens.
 - Move to TypeScript.
-- Deploy the frontend on Vercel with the backend URL in an environment variable.
+
